@@ -1,3 +1,7 @@
 body {
   background-color: red;
 }
+.theMessage {
+  height:10em;
+  background-color: white;
+}
